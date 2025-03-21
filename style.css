@@ -192,7 +192,7 @@ button:hover{
   }
 @media (min-width: 768px) {
     body{
-        display: grid;
+        display: flex;
         place-items: center;
         
         }
