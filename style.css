@@ -181,26 +181,20 @@ button:hover{
         justify-content: space-between;
         align-items: center;
     }
-    
-    
-    
-
-  
-  
-  
-  
-  
-  
-  
-
-    
+     
 #left_side{
     width: 90%;
     height: 30%;
     padding: 30px;
    
 }
-
-    
+  
   }
+@media (min-width: 768px) {
+    body{
+        display: grid;
+        place-items: center;
+        
+        }
+        }
   
